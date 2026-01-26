@@ -1,6 +1,6 @@
 # Medical AI Project
 
-This is a science fair project where I tried building an AI model that uses cosine similarity to recognize tuberculosis in lung x-rays. The goal was to learn how image recognition works in practice, see how accurate this approach could be, and understand what went wrong and how it could be improved.
+This is a science fair project where I tried building an AI model that uses cosine similarity to recognize tuberculosis in lung x-rays. The goal was to learn how image recognition works in practice, see how accurate this approach could be.
 
 ## Quick Setup
 
