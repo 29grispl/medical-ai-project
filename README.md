@@ -1,6 +1,6 @@
 # Medical AI Project
 
-TB detection from X-ray images.
+This is a science fair project where I tried building an AI model that uses cosine similarity to recognize tuberculosis in lung x-rays. The goal was to learn how image recognition works in practice, see how accurate this approach could be, and understand what went wrong and how it could be improved.
 
 ## Quick Setup
 
@@ -12,12 +12,6 @@ source venv/bin/activate  # or `venv\Scripts\activate` on Windows
 pip install -r requirements.txt
 ```
 
-## Why requirements.txt and not venv folder?
-
-Virtual environments are tied to your specific computer. If you copy the `venv` folder to another machine, it breaks. 
-
-`requirements.txt` is just a recipe - pip reads it and builds a fresh venv on your computer. Works everywhere.
-
 ## Project Structure
 
 ```
@@ -27,6 +21,3 @@ data/
 models/
   └── centroids.npz
 ```
-
-Done!
-
