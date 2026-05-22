@@ -1,6 +1,6 @@
 # Medical AI Project
 
-This is a science fair project where I tried building an AI model that uses cosine similarity to recognize tuberculosis in lung x-rays. The goal was to learn how image recognition works in practice, see how accurate this approach could be.
+I made some sort of medical AI that can detect tuberculosis in chest x-rays with a 79% accuracy on both TB+ and TB-, a 100% accuracy on TB- and a 58% accuracy on TB+. I didn't even get top 5, so if anyone wants to expand on this, here.
 
 ## Quick Setup
 
